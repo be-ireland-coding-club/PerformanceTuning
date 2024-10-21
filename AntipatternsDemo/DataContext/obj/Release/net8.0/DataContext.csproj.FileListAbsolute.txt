@@ -1,0 +1,14 @@
+C:\Users\ruadhan.onidh\source\repos\AntipatternsDemo\DataContext\bin\Release\net8.0\DataContext.deps.json
+C:\Users\ruadhan.onidh\source\repos\AntipatternsDemo\DataContext\bin\Release\net8.0\DataContext.runtimeconfig.json
+C:\Users\ruadhan.onidh\source\repos\AntipatternsDemo\DataContext\bin\Release\net8.0\DataContext.dll
+C:\Users\ruadhan.onidh\source\repos\AntipatternsDemo\DataContext\bin\Release\net8.0\DataContext.pdb
+C:\Users\ruadhan.onidh\source\repos\AntipatternsDemo\DataContext\obj\Release\net8.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\ruadhan.onidh\source\repos\AntipatternsDemo\DataContext\obj\Release\net8.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruadhan.onidh\source\repos\AntipatternsDemo\DataContext\obj\Release\net8.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\ruadhan.onidh\source\repos\AntipatternsDemo\DataContext\obj\Release\net8.0\DataContext.AssemblyInfo.cs
+C:\Users\ruadhan.onidh\source\repos\AntipatternsDemo\DataContext\obj\Release\net8.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\ruadhan.onidh\source\repos\AntipatternsDemo\DataContext\obj\Release\net8.0\DataContext.dll
+C:\Users\ruadhan.onidh\source\repos\AntipatternsDemo\DataContext\obj\Release\net8.0\refint\DataContext.dll
+C:\Users\ruadhan.onidh\source\repos\AntipatternsDemo\DataContext\obj\Release\net8.0\DataContext.pdb
+C:\Users\ruadhan.onidh\source\repos\AntipatternsDemo\DataContext\obj\Release\net8.0\DataContext.genruntimeconfig.cache
+C:\Users\ruadhan.onidh\source\repos\AntipatternsDemo\DataContext\obj\Release\net8.0\ref\DataContext.dll

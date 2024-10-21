@@ -1,0 +1,14 @@
+C:\Users\ruadhan.onidh\source\repos\BusyDatabase\BusyDatabase\bin\Debug\net8.0\BusyDatabase.exe
+C:\Users\ruadhan.onidh\source\repos\BusyDatabase\BusyDatabase\bin\Debug\net8.0\BusyDatabase.deps.json
+C:\Users\ruadhan.onidh\source\repos\BusyDatabase\BusyDatabase\bin\Debug\net8.0\BusyDatabase.runtimeconfig.json
+C:\Users\ruadhan.onidh\source\repos\BusyDatabase\BusyDatabase\bin\Debug\net8.0\BusyDatabase.dll
+C:\Users\ruadhan.onidh\source\repos\BusyDatabase\BusyDatabase\bin\Debug\net8.0\BusyDatabase.pdb
+C:\Users\ruadhan.onidh\source\repos\BusyDatabase\BusyDatabase\obj\Debug\net8.0\BusyDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruadhan.onidh\source\repos\BusyDatabase\BusyDatabase\obj\Debug\net8.0\BusyDatabase.AssemblyInfoInputs.cache
+C:\Users\ruadhan.onidh\source\repos\BusyDatabase\BusyDatabase\obj\Debug\net8.0\BusyDatabase.AssemblyInfo.cs
+C:\Users\ruadhan.onidh\source\repos\BusyDatabase\BusyDatabase\obj\Debug\net8.0\BusyDatabase.csproj.CoreCompileInputs.cache
+C:\Users\ruadhan.onidh\source\repos\BusyDatabase\BusyDatabase\obj\Debug\net8.0\BusyDatabase.dll
+C:\Users\ruadhan.onidh\source\repos\BusyDatabase\BusyDatabase\obj\Debug\net8.0\refint\BusyDatabase.dll
+C:\Users\ruadhan.onidh\source\repos\BusyDatabase\BusyDatabase\obj\Debug\net8.0\BusyDatabase.pdb
+C:\Users\ruadhan.onidh\source\repos\BusyDatabase\BusyDatabase\obj\Debug\net8.0\BusyDatabase.genruntimeconfig.cache
+C:\Users\ruadhan.onidh\source\repos\BusyDatabase\BusyDatabase\obj\Debug\net8.0\ref\BusyDatabase.dll
